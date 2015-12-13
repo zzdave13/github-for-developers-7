@@ -5,3 +5,5 @@
 - Fave food:  Balti
 - Hobby:  French Horn
 - Fave colour:  Orange
+- Fave editor:  **Vim**
+
